@@ -17,5 +17,17 @@ Put files of the plugins to the <Mibew root>/plugins folder.
 
 Navigate to "<Mibew Base URL>/operator/plugin" page and enable the plugin.
 
+<h2>Build from sources</h2>
+
+There are several actions one should do before use the latest version of the plugin from the repository:
+
+    Obtain a copy of the repository using git clone, download button, or another way.
+    Install node.js and npm.
+    Install Gulp.
+    Install npm dependencies using npm install.
+    Run Gulp to build the sources using gulp default.
+
+Finally .tar.gz and .zip archives of the ready-to-use Plugin will be available in release directory.
+
 <h2>License</h2>
 <a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License 2.0</a>
