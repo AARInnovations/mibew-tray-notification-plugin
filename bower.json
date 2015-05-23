@@ -1,36 +1,19 @@
 {
-    "name": "notification",
-    "title": "Webkit Notification API jQuery Wrapper",
-    "description": "Webkit Notification plugin. That makes your life easear.",
-    "keywords": [
-        "notification",
-        "notification_api",
-        "wrapper",
-        "webkit"
-    ],
-    "version": "1.0.5",
+    "name": "mibew-tray-notification-plugin",
+    "title": "Mibew Tray Notification plugin",
+    "description": "Plugin notifies a Mibew operator about new visitors requested a chat in the Windows system tray.",
+    "version": "1.0.0",
     "author": {
-        "name": "Mikhail Davydov",
-        "email": "azazel.private@gmail.com",
-        "url": "http://azproduction.ru/"
+        "name": "AAR Innovations",
+        "url": "http://aar-innovations.com"
     },
-    "maintainers": [
-        {
-            "name": "Mikhail Davydov",
-            "email": "azazel.private@gmail.com",
-            "url": "http://azproduction.ru/"
-        }
-    ],
     "licenses": [
         {
             "type": "MIT",
             "url": "http://opensource.org/licenses/MIT"
         }
     ],
-    "bugs": "https://github.com/azproduction/jquery.notification/issues",
-    "homepage": "https://github.com/azproduction/jquery.notification",
-    "demo": "http://azproduction.ru/jquery.notification/",
     "dependencies": {
-        "jquery": ">=1.5"
+        "jquery.notification": "https://github.com/azproduction/jquery.notification"
     }
 } 
