@@ -1,6 +1,6 @@
 # Mibew Tray Notification plugin
 
-Plugin notifies a Mibew operator about new visitors requested a chat in the Windows system tray.
+Plugin notifies a Mibew operator about new visitors requesting a chat in the Windows system tray.
 
 <h2>Installation</h2>
 
@@ -16,6 +16,8 @@ Put files of the plugins to the <Mibew root>/plugins folder.
             new_thread: true
 
 Navigate to "<Mibew Base URL>/operator/plugin" page and enable the plugin.
+
+Downdload plugin package ready to install and find more details at <a href="http://aar-innovations.com">http://aar-innovations.com</a>
 
 <h2>Build from sources</h2>
 
