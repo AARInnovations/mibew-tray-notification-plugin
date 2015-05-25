@@ -9,11 +9,6 @@ Get the archive with the plugin sources. At the moment the only option is to bui
     Untar/unzip the plugin's archive.
 
 Put files of the plugins to the <Mibew root>/plugins folder.
-(optional) Add plugins configs to "plugins" structure in "<Mibew root>/configs/config.yml". If the "plugins" stucture looks like plugins: [] it will become:
-
-    plugins:
-        "AARInnovations:TrayNotification": # Plugin's configurations are described below
-            new_thread: true
 
 Navigate to "<Mibew Base URL>/operator/plugin" page and enable the plugin.
 
