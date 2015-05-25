@@ -48,9 +48,7 @@ var getSources = function() {
             'README.md',
             'LICENSE',
             'js/*',
-            'vendor/jquery-notification/LICENSE',
-            'vendor/jquery-notification/README.markdown',
-            'vendor/jquery-notification/jquery.notification.min.js'
+            'vendor/jquery.notification/jquery.notification.js'
         ],
         {base: './'}
     )

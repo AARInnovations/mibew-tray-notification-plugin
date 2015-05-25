@@ -14,6 +14,6 @@
         }
     ],
     "dependencies": {
-        "jquery.notification": "https://github.com/azproduction/jquery.notification"
+        "jquery.notification": "https://github.com/azproduction/jquery.notification.git#6d9ddcf31d93e3c876b4794f4a575f4f8a3e61f5"
     }
 } 
