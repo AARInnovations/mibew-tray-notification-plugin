@@ -80,7 +80,7 @@ class Plugin extends \Mibew\Plugin\AbstractPlugin implements \Mibew\Plugin\Plugi
 
       if ($need_users_plugin) {
           $base_path = $this->getFilesPath();
-          $args['js'][] = $base_path . '/vendor/jquery-notification/jquery.notification.min.js';
+          $args['js'][] = $base_path . '/vendor/jquery.notification/jquery.notification.js';
 
           $args['js'][] = $base_path . '/js/users_plugin.js';
       }
