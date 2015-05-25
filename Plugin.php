@@ -55,7 +55,7 @@ class Plugin extends \Mibew\Plugin\AbstractPlugin implements \Mibew\Plugin\Plugi
      */
     public function __construct($config)
     {
-        $this->config = $config;
+        parent::__construct($config + array('new_thread' => true));
         $this->initialized = true;
     }
 
