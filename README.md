@@ -4,15 +4,14 @@ Plugin notifies a Mibew operator about new visitors requesting a chat in the Win
 
 <h2>Installation</h2>
 
-Get the archive with the plugin sources. At the moment the only option is to build the plugin from sources.
+Downdload plugin package ready to install and find more details at <a href="http://aar-innovations.com">http://aar-innovations.com</a>
 
-    Untar/unzip the plugin's archive.
+Untar/unzip the plugin's archive.
 
-Put files of the plugins to the <Mibew root>/plugins folder.
+Put files of the plugin to the <Mibew root>/plugins folder.
 
 Navigate to "<Mibew Base URL>/operator/plugin" page and enable the plugin.
 
-Downdload plugin package ready to install and find more details at <a href="http://aar-innovations.com">http://aar-innovations.com</a>
 
 <h2>Build from sources</h2>
 
