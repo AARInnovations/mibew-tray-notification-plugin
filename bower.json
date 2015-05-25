@@ -1,7 +1,7 @@
 {
     "name": "mibew-tray-notification-plugin",
     "title": "Mibew Tray Notification plugin",
-    "description": "Plugin notifies a Mibew operator about new visitors requested a chat in the Windows system tray.",
+    "description": "Plugin notifies a Mibew operator about new visitors requesting a chat in the Windows system tray.",
     "version": "1.0.0",
     "author": {
         "name": "AAR Innovations",
