@@ -1,4 +1,4 @@
-# Mibew Tray Notification plugin
+# Tray Notification plugin for Mibew Messenger
 
 Plugin notifies a Mibew operator about new visitors requesting a chat in the Windows system tray.
 
